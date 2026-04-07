@@ -10,16 +10,5 @@ I have a background in competitive programming and formal software engineering, 
 - **voice-type:** An accurate and fast Linux-native dictation tool for Speech-to-Text (STT) recognition.
 - **vidder-cli:** A video downloading utility written in Go.
 
-**Tech Skills:**
-
-- **Languages**: Go, TypeScript
-- **Frontend**: HTML5, CSS3, JS, React, Tailwind CSS
-- **Backend**: Go (Chi & Fiber), Node.js, Express.js, Nest.js
-- **Databases**: PostgreSQL, MySQL, MongoDB, DynamoDB, Redis
-- **Cloud**: AWS, Cloudflare
-- **Other**: Git, GitHub, GitLab, Docker, Kubernetes, Kafka, Linux
-
----
-
 **Links:**
 [Portfolio](https://eriknovikov.pages.dev) | [LinkedIn](https://www.linkedin.com/in/eriknovikov) | [Dev.to](https://dev.to/eriknovikov)
