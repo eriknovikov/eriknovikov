@@ -15,4 +15,4 @@ I have a background in formal software engineering and competitive programming, 
 ---
 
 **Links:**
-[Portfolio](https://eriknovikov.pages.dev) | [LinkedIn](https://www.linkedin.com/in/eriknovikov) | [Dev.to](https://dev.to/eriknovikov)
+[Website](https://eriknovikov.pages.dev) | [LinkedIn](https://www.linkedin.com/in/eriknovikov) | [Dev.to](https://dev.to/eriknovikov)
